@@ -4,7 +4,7 @@ echo "*************************************************"
 echo "*                                               *"
 echo "*                Crack Password Script          *"
 echo "*                     by opscur                 *"
-echo "*       https://github.com/cyperpoul/Crackpass  *"
+echo "*       https://github.com/0p5cur/Crackpass     *"
 echo "*                                               *"
 echo "*************************************************"
 
